@@ -1,0 +1,14 @@
+.env
+.venv
+__pycache__/
+*.pyc
+
+# Test scripts (not part of submission)
+smoke_test.py
+test_edge_cases.py
+test_all_requirements.py
+prove_100k_indexes.py
+
+# Original kit / assignment files
+candidate_kit/
+PROBLEM_STATEMENT.docx
